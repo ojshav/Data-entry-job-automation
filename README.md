@@ -1,5 +1,5 @@
 # Data Entry Job Automation using Beautiful Soup and Selenium on Zillow.com
-If you are tired of manually entering data into spreadsheets, then this project may be just what you need. In this project, we used Beautiful Soup and Selenium to automate the data entry process for Zillow.com, a popular website for finding houses for rent and sale in the United States. We then stored the collected information into a Google Form and converted it into an Excel sheet for easier management.
+If you are tired of manually entering data into spreadsheets, then this project may be just what you need. In this project, i have  used Beautiful Soup and Selenium to automate the data entry process for Zillow.com, a popular website for finding houses for rent and sale in the United States. We then stored the collected information into a Google Form and converted it into an Excel sheet for easier management.
 
 ### Overview
 The goal of this project was to automate the process of collecting data from Zillow.com and store it in an organized manner that can be easily accessed and analyzed. The automation process was achieved by using two powerful Python libraries: Beautiful Soup and Selenium.
